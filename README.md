@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install bonzi_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+BonziViewTool::Renderer.copyright 'Daniel Rivera', 'All rights reserved'
+```
 
 ## Development
 
